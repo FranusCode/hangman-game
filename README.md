@@ -21,7 +21,7 @@ Aplikacja losuje hasła z różnych kategorii (plików tekstowych) i dynamicznie
 
 1. Sklonuj repozytorium:
    ```bash
-   git clone [https://github.com/FranusCode/hangman.git](https://github.com/FranusCode/hangman.git)
+   git clone https://github.com/FranusCode/hangman.git
 
 2. Zainstaluj wymagane biblioteki z pliku requirements.txt:
    ```bash
